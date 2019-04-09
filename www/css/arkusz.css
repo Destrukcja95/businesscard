@@ -2,24 +2,17 @@ body {
 	background-color: black;
 }
 
-p {
-	color: white;
-	border: 2px green;
-}
 
 h1 {
 	color: white;
-	border: 5px;
 	font-size: 30px;
 }
 
-h1 {
+h2 {
 	color: white;
-	border: 5px;
-	font-size: 8px;
+	font-size: 15px;
 }
-h1 {
+h3 {
 	color: white;
-	border: 5px;
-	font-size: 6px;
+	font-size: 10px;
 }
